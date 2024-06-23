@@ -1,4 +1,4 @@
-CID_226_Athena_Commando_F_Octoberfest, 2000
+CID_703_Athena_Commando_M_Cyclone, 1500
 CID_225_Athena_Commando_M_Octoberfest, 2000
 na
 na
