@@ -38,9 +38,9 @@
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_226_Athena_Commando_F_Octoberfest"
+            "CID_703_Athena_Commando_M_Cyclone"
         ],
-        "price": 2000
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
